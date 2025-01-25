@@ -11,9 +11,12 @@ The analysis and visualization are performed in Tableau, while the preprocessing
 - Identify columns with missing data
 - Drop rows with missing values
 
+
 2. **Rename Columns for Better Understanding**
 
+
 3. **Drop Irrelevant Attributes**
+
 
 4. **Exporting Data:**
 - Export the cleaned data to CSV format for use in Tableau.
